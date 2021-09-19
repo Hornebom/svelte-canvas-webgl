@@ -1,4 +1,5 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# webgl native animated noise background
+Component `Stage.svelte` provides a canvas (webgl context) and a render loop. `planeMesh` is a plane mesh that color is defined in shaders. 
 
 ---
 
